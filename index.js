@@ -1,0 +1,1 @@
+console.log('teste');//comportamento padrão de quebrar a linha
